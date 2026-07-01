@@ -1,0 +1,2 @@
+order_id,customer_id,product_id,category,price,discount,quantity,payment_method,order_date,delivered_date,region,returned,request_date,return_reason,total_amount,shipping_cost,profit_margin,customer_age,customer_gender,Return_Flag,Return_Probability
+O107705,C13565,P242326,Electronics,2930.47,0.0,4,UPI,13/4/2024,17/4/2024,West,No,,,11721.88,13.67,1392.96,22,Male,0,0.2200506226366302
